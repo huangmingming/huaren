@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HrJr_Intefacet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+      <!-- 服务器后台响应code说明    网络错误 -->
+    <string name="networkFailure">网络连接失败</string>
+    <string name="responseTimeout">响应超时</string>
+    <string name="requestTimeout">请求超时</string>
+    <string name="networkError">网络异常</string>
+    <string name="jsonError">网络错误</string>
+    <string name="canNotGetConnected">无法连接网络</string>
+
+</resources>
